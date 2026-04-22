@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="aufgabe 1 fertig bis auf (b)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="alles fürs erste fertig bis auf 1b">
       <change beforePath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abgabe2/abgabe2.py" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/abgabe2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,13 +104,22 @@
       <option name="project" value="LOCAL" />
       <updated>1776863084812</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="alles fürs erste fertig bis auf 1b">
+      <option name="closed" value="true" />
+      <created>1776872950124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776872950124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="aufgabe 1 fertig bis auf (b)" />
-    <option name="LAST_COMMIT_MESSAGE" value="aufgabe 1 fertig bis auf (b)" />
+    <MESSAGE value="alles fürs erste fertig bis auf 1b" />
+    <option name="LAST_COMMIT_MESSAGE" value="alles fürs erste fertig bis auf 1b" />
   </component>
 </project>
