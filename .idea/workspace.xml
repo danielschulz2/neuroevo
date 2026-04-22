@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="aufgabe 1 fertig bis auf (b)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abgabe2/abgabe2.py" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/abgabe2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,12 +90,29 @@
       <option name="project" value="LOCAL" />
       <updated>1776852807824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aufgabe 1 fertig bis auf (b)">
+      <option name="closed" value="true" />
+      <created>1776862954739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776862954739</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aufgabe 1 fertig bis auf (b)">
+      <option name="closed" value="true" />
+      <created>1776863084812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776863084812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="aufgabe 1 fertig bis auf (b)" />
+    <option name="LAST_COMMIT_MESSAGE" value="aufgabe 1 fertig bis auf (b)" />
   </component>
 </project>
