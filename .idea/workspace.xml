@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="alles fürs erste fertig bis auf 1b">
+    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="feedback 1 ist jetzt auch drin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abgabe2/.ipynb_checkpoints/abgabe2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/.ipynb_checkpoints/abgabe2-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
