@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="feedback 1 ist jetzt auch drin">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abgabe2/.ipynb_checkpoints/abgabe2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/.ipynb_checkpoints/abgabe2-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/abgabe2/abgabe2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="feedback 1 ist jetzt auch drin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776873025226</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feedback 1 ist jetzt auch drin">
+      <option name="closed" value="true" />
+      <created>1777914713465</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777914713465</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +134,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="aufgabe 1 fertig bis auf (b)" />
     <MESSAGE value="alles fürs erste fertig bis auf 1b" />
-    <option name="LAST_COMMIT_MESSAGE" value="alles fürs erste fertig bis auf 1b" />
+    <MESSAGE value="feedback 1 ist jetzt auch drin" />
+    <option name="LAST_COMMIT_MESSAGE" value="feedback 1 ist jetzt auch drin" />
   </component>
 </project>
