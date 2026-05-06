@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="feedback 1 ist jetzt auch drin" />
+    <list default="true" id="cdee0c87-fc71-46c6-bea6-47dd093a29e5" name="Changes" comment="abgabe 3 pdf upload">
+      <change afterPath="$PROJECT_DIR$/abgabe3/abgabe3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abgabe3/mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abgabe3/mnist/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abgabe3/mnist/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abgabe3/mnist/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abgabe3/mnist/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +43,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.abgabe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abgabe3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
@@ -126,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777914713465</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fertig">
+      <option name="closed" value="true" />
+      <created>1777915157961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777915157961</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +159,7 @@
     <MESSAGE value="aufgabe 1 fertig bis auf (b)" />
     <MESSAGE value="alles fürs erste fertig bis auf 1b" />
     <MESSAGE value="feedback 1 ist jetzt auch drin" />
-    <option name="LAST_COMMIT_MESSAGE" value="feedback 1 ist jetzt auch drin" />
+    <MESSAGE value="fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="fertig" />
   </component>
 </project>
